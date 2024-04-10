@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for generating blog content using the LLAMA2 language model. LLAMA2 is a powerful language model trained by [Hugging Face](https://huggingface.co/), capable of generating human-like text based on given prompts.
+This repository contains code for generating blog content using the LLAMA2 language model. LLAMA2 is a powerful language model trained by [Meta AI](https://meta.com/ai/), capable of generating human-like text based on given prompts.
 
 ## Installation
 
