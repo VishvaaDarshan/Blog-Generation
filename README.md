@@ -51,7 +51,7 @@ To generate blog content using LLAMA2, follow these steps:
 
 ## Customization
 
-Feel free to customize the code and experiment with different prompts, writing styles, and LLAMA2 model configurations to generate blog content that suits your preferences.
+Feel free to customize the code and experiment with different prompts, writing styles, and LLAMA2 model configurations to generate blog content that suits your preferences and needs.
 
 ## Contributing
 
