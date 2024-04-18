@@ -6,7 +6,7 @@ This repository contains code for generating blog content using the LLAMA2 langu
 
 ## Installation
 
-To run the code in this repository, follow these steps:
+To run this code in this repository, follow these steps:
 
 1. Clone the repository on to your local machine:
 
